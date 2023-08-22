@@ -1,0 +1,5 @@
+# Directory Constants 
+DEPL_DIR="${CDS_HOME}/deployment/${CDS_DEPL_NAME}" 
+CONF_DIR="${DEPL_DIR}/conf" 
+LIB_DIR="${DEPL_DIR}/lib" 
+CDSLIB_DIR="${LIB_DIR}/cdslib" 
