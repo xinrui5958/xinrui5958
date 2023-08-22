@@ -1,0 +1,6 @@
+   String jndiCtxFactory = null; 
+    String connFactory = null; 
+    String providerURL = null; 
+    String topicName = null; 
+    if (args.length == 9) 
+    { 
