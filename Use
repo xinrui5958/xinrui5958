@@ -1,0 +1,5 @@
+// This method will create an External Directory Server Proxy and 
+  // initiatlize this User Manager 
+		private void init() throws UserProfileResourceException 
+	{	 
+		System.out.println("Initializing External UserManager .... "
